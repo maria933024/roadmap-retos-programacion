@@ -1,0 +1,22 @@
+## https://www.python.org ## 
+
+# Esto es  un comentario de una línea  #
+
+'''
+Esto es un comentario
+en varias 
+lineas
+
+''' 
+
+my_variable = "Nueva varaible"
+
+MY_CONSTANT = "CONSTANTE" # constantes en mayúsculas
+
+my_int  = 10
+my_float = 10.5
+my_bool = True
+my_string = "Hola"
+my_other_string = 'Hola 2'
+
+print("¡Hola , Python ")
